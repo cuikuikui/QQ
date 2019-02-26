@@ -1,0 +1,222 @@
+C:\Users\C K\Desktop\C#\QQ\QQ\bin\Debug\QQ.exe.config
+C:\Users\C K\Desktop\C#\QQ\QQ\bin\Debug\QQ.exe
+C:\Users\C K\Desktop\C#\QQ\QQ\bin\Debug\QQ.pdb
+C:\Users\C K\Desktop\C#\QQ\QQ\obj\Debug\QQ.csprojResolveAssemblyReference.cache
+C:\Users\C K\Desktop\C#\QQ\QQ\obj\Debug\QQ.ChatsForm.resources
+C:\Users\C K\Desktop\C#\QQ\QQ\obj\Debug\QQ.LoginForm.resources
+C:\Users\C K\Desktop\C#\QQ\QQ\obj\Debug\QQ.MainForm.resources
+C:\Users\C K\Desktop\C#\QQ\QQ\obj\Debug\QQ.Properties.Resources.resources
+C:\Users\C K\Desktop\C#\QQ\QQ\obj\Debug\QQ.RegisterForm.resources
+C:\Users\C K\Desktop\C#\QQ\QQ\obj\Debug\QQ.csproj.GenerateResource.Cache
+C:\Users\C K\Desktop\C#\QQ\QQ\obj\Debug\QQ.exe
+C:\Users\C K\Desktop\C#\QQ\QQ\obj\Debug\QQ.pdb
+C:\Users\C K\Desktop\QQ\QQ\bin\Debug\QQ.exe.config
+C:\Users\C K\Desktop\QQ\QQ\obj\Debug\QQ.exe
+C:\Users\C K\Desktop\QQ\QQ\obj\Debug\QQ.pdb
+C:\Users\C K\Desktop\QQ\QQ\bin\Debug\QQ.exe
+C:\Users\C K\Desktop\QQ\QQ\bin\Debug\QQ.pdb
+C:\Users\C K\Desktop\QQ\QQ\obj\Debug\QQ.csprojResolveAssemblyReference.cache
+C:\Users\C K\Desktop\QQ\QQ\obj\Debug\QQ.ChatsForm.resources
+C:\Users\C K\Desktop\QQ\QQ\obj\Debug\QQ.LoginForm.resources
+C:\Users\C K\Desktop\QQ\QQ\obj\Debug\QQ.MainForm.resources
+C:\Users\C K\Desktop\QQ\QQ\obj\Debug\QQ.Properties.Resources.resources
+C:\Users\C K\Desktop\QQ\QQ\obj\Debug\QQ.RegisterForm.resources
+C:\Users\C K\Desktop\QQ\QQ\obj\Debug\QQ.csproj.GenerateResource.Cache
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\bin\Debug\QQ.exe.config
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.exe
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.pdb
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\bin\Debug\QQ.exe
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\bin\Debug\QQ.pdb
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.csprojResolveAssemblyReference.cache
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.ChatsForm.resources
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.LoginForm.resources
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.MainForm.resources
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.Properties.Resources.resources
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.RegisterForm.resources
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.csproj.GenerateResource.Cache
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\Interop.WMPLib.dll
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.csproj.ResolveComReference.cache
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.MyAudioPlayers.resources
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.About.resources
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\bin\Debug\Interop.WMPLib.dll
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.RequestForm.resources
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.SearchFriendForm.resources
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.FacesForm.resources
+C:\Users\C K\Desktop\C#项目\QQ\QQ\QQ\obj\Debug\QQ.PersonalInfoForm.resources
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\bin\Debug\QQ.exe.config
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\Interop.WMPLib.dll
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\AxInterop.WMPLib.dll
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.csproj.ResolveComReference.cache
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.exe
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.pdb
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\bin\Debug\QQ.exe
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\bin\Debug\QQ.pdb
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\bin\Debug\Interop.WMPLib.dll
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\bin\Debug\AxInterop.WMPLib.dll
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.csprojResolveAssemblyReference.cache
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.About.resources
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.ChatsForm.resources
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.FacesForm.resources
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.LoginForm.resources
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.MainForm.resources
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.MyAudioPlayers.resources
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.PersonalInfoForm.resources
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.Properties.Resources.resources
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.RegisterForm.resources
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.RequestForm.resources
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.SearchFriendForm.resources
+E:\CK——学习资料\CK——大二下学期课程资料\CK——C#\C#项目\QQ\QQ\QQ\obj\Debug\QQ.csproj.GenerateResource.Cache
+C:\Users\C K\Desktop\QQ\QQ\QQ\bin\Debug\QQ.exe.config
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\Interop.WMPLib.dll
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.csproj.ResolveComReference.cache
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.exe
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.pdb
+C:\Users\C K\Desktop\QQ\QQ\QQ\bin\Debug\QQ.exe
+C:\Users\C K\Desktop\QQ\QQ\QQ\bin\Debug\QQ.pdb
+C:\Users\C K\Desktop\QQ\QQ\QQ\bin\Debug\Interop.WMPLib.dll
+C:\Users\C K\Desktop\QQ\QQ\QQ\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.csprojResolveAssemblyReference.cache
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.About.resources
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.ChatsForm.resources
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.FacesForm.resources
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.LoginForm.resources
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.MainForm.resources
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.MyAudioPlayers.resources
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.PersonalInfoForm.resources
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.Properties.Resources.resources
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.RegisterForm.resources
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.RequestForm.resources
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.SearchFriendForm.resources
+C:\Users\C K\Desktop\QQ\QQ\QQ\obj\Debug\QQ.csproj.GenerateResource.Cache
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\QQ\bin\Debug\QQ.exe.config
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\QQ\obj\Debug\Interop.WMPLib.dll
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\QQ\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\QQ\obj\Debug\QQ.csproj.ResolveComReference.cache
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\QQ\obj\Debug\QQ.exe
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\QQ\obj\Debug\QQ.pdb
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\bin\Debug\QQ.exe.config
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\Interop.WMPLib.dll
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.csproj.ResolveComReference.cache
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.exe
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.pdb
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\bin\Debug\QQ.exe
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\bin\Debug\QQ.pdb
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\bin\Debug\Interop.WMPLib.dll
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.csprojResolveAssemblyReference.cache
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.About.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.ChatsForm.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.FacesForm.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.LoginForm.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.MainForm.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.MyAudioPlayers.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.PersonalInfoForm.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.Properties.Resources.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.RegisterForm.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.RequestForm.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.SearchFriendForm.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ\MyQQ\obj\Debug\QQ.csproj.GenerateResource.Cache
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\bin\Debug\QQ.exe.config
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\Interop.WMPLib.dll
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\QQ.csproj.ResolveComReference.cache
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\QQ.exe
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\QQ.pdb
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\bin\Debug\QQ.exe
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\bin\Debug\QQ.pdb
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\bin\Debug\Interop.WMPLib.dll
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\QQ.csprojResolveAssemblyReference.cache
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\QQ.ChatsForm.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\QQ.LoginForm.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\QQ.MainForm.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\QQ.Properties.Resources.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\QQ.RegisterForm.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\QQ.csproj.GenerateResource.Cache
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\QQ.frmServer.resources
+C:\Users\C K\Desktop\《数据通信专项实训》学生素材\MyQQ编辑\MyQQ\obj\Debug\QQ.frmMediaPlayer.resources
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\bin\Debug\QQ.exe.config
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\Interop.WMPLib.dll
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.csproj.ResolveComReference.cache
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.exe
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.pdb
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\bin\Debug\QQ.exe
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\bin\Debug\QQ.pdb
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\bin\Debug\Interop.WMPLib.dll
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.ChatsForm.resources
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.frmMediaPlayer.resources
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.frmServer.resources
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.LoginForm.resources
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.MainForm.resources
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.Properties.Resources.resources
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.RegisterForm.resources
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.csproj.GenerateResource.Cache
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.Form1.resources
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\bin\Debug\QQ.exe.config
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.exe
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.pdb
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\bin\Debug\QQ.exe
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\bin\Debug\QQ.pdb
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.ChatsForm.resources
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.Form1.resources
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.frmMediaPlayer.resources
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.frmServer.resources
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.LoginForm.resources
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.MainForm.resources
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.RegisterForm.resources
+C:\Users\Administrator\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.csproj.GenerateResource.Cache
+C:\Users\C K\Desktop\MyQQ编辑\MyQQ\obj\Debug\QQ.frmHelp.resources
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\bin\Debug\QQ.exe.config
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\Interop.WMPLib.dll
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.csproj.ResolveComReference.cache
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.exe
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.pdb
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\bin\Debug\QQ.exe
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\bin\Debug\QQ.pdb
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\bin\Debug\Interop.WMPLib.dll
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.csprojResolveAssemblyReference.cache
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.ChatsForm.resources
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.Form1.resources
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.frmHelp.resources
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.frmMediaPlayer.resources
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.frmServer.resources
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.LoginForm.resources
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.MainForm.resources
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.Properties.Resources.resources
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.RegisterForm.resources
+C:\Users\C K\Desktop\3040143205崔魁魁\MyQQ\obj\Debug\QQ.csproj.GenerateResource.Cache
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\bin\Debug\QQ.exe.config
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\Interop.WMPLib.dll
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\AxInterop.WMPLib.dll
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.csproj.ResolveComReference.cache
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.exe
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.pdb
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\bin\Debug\QQ.exe
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\bin\Debug\QQ.pdb
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\bin\Debug\Interop.WMPLib.dll
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\bin\Debug\AxInterop.WMPLib.dll
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.csprojResolveAssemblyReference.cache
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.ChatsForm.resources
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.Form1.resources
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.frmHelp.resources
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.frmMediaPlayer.resources
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.frmServer.resources
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.LoginForm.resources
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.MainForm.resources
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.Properties.Resources.resources
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.RegisterForm.resources
+E:\CK——学习资料\CK——大三第一学期\《数据通信专项实训》学生素材\3040143205崔魁魁\MyQQ\obj\Debug\QQ.csproj.GenerateResource.Cache
